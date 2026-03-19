@@ -36,22 +36,9 @@ npm install zustand
 
 ## วิธีรันโปรเจกต์
 
-### 1. เริ่ม Metro Bundler
 
 ```bash
-npm start
-```
-
-### 2. รันบน Android
-
-```bash
-npm run android
-```
-
-### 3. รันบน iOS
-
-```bash
-npm run ios
+npx react-native run-android
 ```
 
 หมายเหตุ:
