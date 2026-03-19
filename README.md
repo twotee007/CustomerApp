@@ -44,7 +44,6 @@ npx react-native run-android
 หมายเหตุ:
 
 - ต้องเตรียม environment ของ React Native ให้พร้อมก่อน เช่น Android Studio / Xcode / emulator / device
-- สำหรับ iOS อาจต้องติดตั้ง CocoaPods เพิ่มเติมหลัง clone โปรเจกต์
 
 ## การรันเทสต์
 
